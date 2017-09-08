@@ -3,5 +3,5 @@ html {
 }
 
 div1 {
-  background-image: "./resources/images/the-flatiron-building.jpg"; 
+  background-image: url("./resources/images/the-flatiron-building.jpg"); 
 }
