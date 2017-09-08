@@ -1,3 +1,7 @@
 html {
   text-align: center;
 }
+
+div1 {
+  background-image: url("./resources/images/broadway.jpg"); 
+}
