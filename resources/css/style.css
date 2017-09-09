@@ -11,7 +11,7 @@ h1 {
   background: url(images/the-flatiron-building.jpg); 
 }
 
-ul .copy {
+.copy {
   background: gray;
   color: white;
   font-size: 8px;
