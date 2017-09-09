@@ -15,3 +15,7 @@ ul {
   list-style-type: none;
   display: inline;
 }
+
+li a {display: inline;
+  color: white;
+}
