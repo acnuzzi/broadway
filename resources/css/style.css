@@ -13,9 +13,9 @@ ul {
   font-weight: bold;
   list-style-type: none;
   text-align: left;
+  display: inline;
 }
 
 li a {
-  display: inline;
   color: white;
 }
