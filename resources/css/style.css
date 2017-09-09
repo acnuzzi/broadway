@@ -6,19 +6,11 @@ h1 {
   background: url(images/the-flatiron-building.jpg); 
 }
 
-.copy {
+ul .copy {
   background: gray;
   color: white;
   font-size: 8px;
   font-weight: bold;
   list-style-type: none;
   text-align: left;
-}
-
- ul li {
-    display: inline;
-}
-
-li a {
-  color: white;
 }
