@@ -2,7 +2,7 @@ html {
   text-align: center;
 }
 
-.headerlink {
+ul.headerlink {
   font-size: 18px;
   list-style-type: none;
 }
@@ -11,7 +11,7 @@ h1 {
   background: url(images/the-flatiron-building.jpg); 
 }
 
-.copy {
+ul.copy {
   background-color: gray;
   color: white;
   font-size: 8px;
