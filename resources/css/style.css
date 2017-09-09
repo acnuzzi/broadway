@@ -6,7 +6,7 @@ h1 {
   background: url(images/the-flatiron-building.jpg); 
 }
 
-ul {
+.class {
   background: gray;
   color: white;
   font-size: 8px;
