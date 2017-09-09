@@ -15,3 +15,9 @@ ul {
   list-style-type: none;
   display: inline;
 }
+
+.class {
+  background: gray;
+  display: inline;
+  font-weight: bold;
+}
