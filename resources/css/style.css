@@ -6,7 +6,7 @@ h1 {
   background: url(images/the-flatiron-building.jpg); 
 }
 
-ul {
+ul li {
   background: gray;
   text-align: left;
   color: white;
