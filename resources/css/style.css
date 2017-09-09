@@ -6,16 +6,16 @@ h1 {
   background: url(images/the-flatiron-building.jpg); 
 }
 
-ul li {
+ul {
   background: gray;
   text-align: left;
   color: white;
   font-size: 8px;
   font-weight: bold;
   list-style-type: none;
-  display: inline;
 }
 
-li a {display: inline;
+li a {
+  display: inline;
   color: white;
 }
