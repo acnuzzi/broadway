@@ -13,5 +13,12 @@ h1 {
   font-weight: bold;
   list-style-type: none;
   text-align: left;
-  display: inline;
+}
+
+ ul li {
+    display: inline;
+}
+
+li a {
+  color: white;
 }
