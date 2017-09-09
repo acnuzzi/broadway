@@ -5,3 +5,11 @@ html {
 h1 {
   background: url(images/the-flatiron-building.jpg); 
 }
+
+.class {
+  Bacground-color: gray;
+  text-align: left;
+  color: white;
+  font-size: 10px;
+}
+  
