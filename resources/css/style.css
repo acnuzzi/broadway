@@ -2,6 +2,11 @@ html {
   text-align: center;
 }
 
+ul .Headerlink {
+  font-size: 32px;
+  list-style-type: none;
+}
+
 h1 {
   background: url(images/the-flatiron-building.jpg); 
 }
