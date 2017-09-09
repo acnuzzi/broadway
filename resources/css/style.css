@@ -13,10 +13,5 @@ ul {
   font-size: 8px;
   font-weight: bold;
   list-style-type: none;
-}
-
-li {
-  color: white;
   display: inline;
-  
 }
