@@ -28,6 +28,10 @@ h3 {
   font-size: 23px;
 }
 
+h6 {
+  font-size: 14px;
+}
+
 .copyright {
   background-color: gray;
   text-align: left;
