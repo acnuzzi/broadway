@@ -17,12 +17,15 @@ h1 {
   font-size: 8px;
   font-weight: bold;
   list-style-type: none;
+  display: inline;
+}
+
+
+.copybroad {
+  display: inline;
   text-align: left;
-  display: inline;
 }
 
-
-li {
-  display: inline;
+.copyhtml {
+  color: white;
 }
-
