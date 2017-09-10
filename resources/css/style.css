@@ -21,6 +21,10 @@ ul.copyright {
 
 }
 
+.copyright li {
+  display: inline;
+}
+
 a.copyhtml {
   color: white;
 }
