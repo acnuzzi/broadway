@@ -6,7 +6,7 @@ h1 {
   background: url(images/the-flatiron-building.jpg); 
 }
 
-.headerlink {
+#headerlink ul {
   list-style: none;
 }
 
