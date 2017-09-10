@@ -5,11 +5,10 @@ html {
 ul.headerlink {
   font-size: 20px;
   list-style-type: none;
-  text-align: center;
+  text-color: white;
 }
 
 .headerlink li {
-  text-color: white;
   margin: 10px;
 }
 
