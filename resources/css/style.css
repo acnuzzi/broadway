@@ -6,6 +6,10 @@ h1 {
   background: url(images/the-flatiron-building.jpg); 
 }
 
+.headerlink {
+  list-style: none;
+}
+
 .copyright {
   background-color: gray;
   text-align: left;
