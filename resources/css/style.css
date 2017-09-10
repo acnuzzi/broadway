@@ -17,14 +17,13 @@ ul.copyright {
   font-size: 8px;
   font-weight: bold;
   list-style-type: none;
+  text-align: left;
 }
 
 
 li.copybroad {
   display: inline;
-  text-align: left;
   color: white;
-  display: inline;
 }
 
 a.copyhtml {
