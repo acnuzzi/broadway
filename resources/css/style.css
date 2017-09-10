@@ -12,7 +12,6 @@ h1 {
 }
 
 ul.copyright {
-  display: inline;
   background-color: gray;
   color: white;
   font-size: 8px;
@@ -29,4 +28,5 @@ li.copybroad {
 
 a.copyhtml {
   color: white;
+  display: inline;
 }
