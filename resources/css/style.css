@@ -12,7 +12,6 @@ h1 {
 }
 
 
-
 .copyright li {
   display: inline;
     background-color: gray;
@@ -21,8 +20,4 @@ h1 {
   font-weight: bold;
   list-style-type: none;
 text-align: left;
-}
-
-a.copyhtml {
-  color: white;
 }
