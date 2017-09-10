@@ -6,6 +6,7 @@ ul.headerlink {
   font-size: 20px;
   list-style-type: none;
   text-color: white;
+  background-color: gray;
 }
 
 .headerlink li {
