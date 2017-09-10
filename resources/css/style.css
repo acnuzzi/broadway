@@ -5,8 +5,12 @@ html {
 .headerlink ul {
   font-size: 20px;
   list-style-type: none;
-  margin: 10px;
+}
+
+.headerlink li {
   text-align: center;
+  color: white;
+  margin: 10px;
 }
 
 
