@@ -14,10 +14,13 @@ h1 {
 
 .copyright li {
   display: inline;
-    background-color: gray;
+  background-color: gray;
   color: white;
   font-size: 8px;
   font-weight: bold;
   list-style-type: none;
-text-align: left;
+}
+
+.copyright ul {
+  text-align: left;
 }
