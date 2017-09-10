@@ -8,11 +8,12 @@ h1 {
 
 .headerlink {
   background-color: gray;
+  text-align: right;
 }
 
 .headerlink ul {
   list-style-type: none;
-  text-align: center;
+  
 }
   
 
