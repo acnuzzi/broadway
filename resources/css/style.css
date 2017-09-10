@@ -11,7 +11,7 @@ h1 {
 
   
 .headerlink {
-  background-image: url("/images/the-flatiron-building.jpg");
+  background-image: url("../images/the-flatiron-building.jpg");
   background-repeat: no-repeat;
   font-size: 18px;
 }
@@ -22,7 +22,7 @@ h1 {
   
 .newyork {
   color: white;
-  background-image: url("/images/the-flatiron-building.jpg");
+  background-image: url("../images/the-flatiron-building.jpg");
 }
 
 h2 {
