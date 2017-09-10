@@ -5,6 +5,9 @@ html {
 .headerlink ul {
   font-size: 12px;
   list-style-type: none;
+}
+
+.headerlink li {
   margin: 10px;
 }
 
