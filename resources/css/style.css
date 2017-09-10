@@ -11,7 +11,7 @@ h1 {
   background: url(images/the-flatiron-building.jpg); 
 }
 
-.copyright {
+ul.copyright {
   background-color: gray;
   color: white;
   font-size: 8px;
@@ -21,14 +21,14 @@ h1 {
 }
 
 
-.copybroad {
+li.copybroad {
   display: inline;
   text-align: left;
   color: white;
   display: inline;
 }
 
-.copyhtml {
+a.copyhtml {
   color: white;
   display: inline;
 }
