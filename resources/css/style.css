@@ -2,18 +2,6 @@ html {
   text-align: center;
 }
 
-ul.headerlink {
-  font-size: 20px;
-
-  text-color: white;
-  color: gray;
-}
-
-.headerlink li {
-  margin: 10px;
-}
-
-
 h1 {
   background: url(images/the-flatiron-building.jpg); 
 }
