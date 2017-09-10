@@ -20,6 +20,13 @@ h1 {
     color: white;  
 }
   
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
 
 .copyright {
   background-color: gray;
