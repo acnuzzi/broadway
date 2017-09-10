@@ -8,8 +8,12 @@ h1 {
 
 .headerlink {
   background-color: gray;
+}
+
+.headerlink li {
   list-style-type: none;
 }
+  
 
 .copyright {
   background-color: gray;
