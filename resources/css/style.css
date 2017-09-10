@@ -4,7 +4,7 @@ html {
 }
 
 h1 {
-  background: url(images/the-flatiron-building.jpg); 
+  background: url(images/the-flatiron-building.jpg);  
   font-size: 70px;
   color: white;
   font-weight: Bold;
@@ -12,7 +12,7 @@ h1 {
 
   
 .headerlink {
-  background-color: gray; 
+  background-color: url(images/the-flatiron-building.jpg); 
   font-size: 18px;
 }
 
