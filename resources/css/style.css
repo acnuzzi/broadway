@@ -12,13 +12,14 @@ h1 {
 }
 
 ul.copyright {
+  display: inline;
   background-color: gray;
   color: white;
   font-size: 8px;
   font-weight: bold;
   list-style-type: none;
   text-align: left;
-  display: inline;
+
 }
 
 
