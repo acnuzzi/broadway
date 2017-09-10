@@ -13,7 +13,7 @@ h1 {
 
 .copyright ul {
   color: gray;
-  text-align: left;
+  align: left;
 }
 
 .copyright li {
